@@ -50,7 +50,7 @@ The analysis aims to provide **actionable insights** for **game publishers, mark
 
  ### Exploratory Data Analysis (EDA)
 
-- Used summary statistics and visualizations to explore global sales distribution.
+  --**Used summary statistics and visualizations to explore global sales distribution.
 
 - Identified top-selling games, platforms, customer segments, and regions.
 
