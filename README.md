@@ -58,7 +58,7 @@ The analysis aims to provide **actionable insights** for **game publishers, mark
 
 ### 📈 Data Visualization
 
-####Created dashboards in Excel showing:
+--Created dashboards in Excel showing:
 
 - Global Sales by Platform (Retail vs Online)
 
