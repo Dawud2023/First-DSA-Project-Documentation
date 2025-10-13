@@ -47,4 +47,44 @@ The analysis aims to provide **actionable insights** for **game publishers, mark
 - Creating another column for Customer ID by using an Excel function:
   ```excel
   ="CUST-" & TEXT(ROW(A1),"000")
+  📊 Exploratory Data Analysis (EDA)
+
+- Used summary statistics and visualizations to explore global sales distribution.
+
+- Identified top-selling games, platforms, customer segments, and regions.
+
+- Analyzed monthly sales trends to see the rise and fall of gaming platforms over time.
+
+📈 Data Visualization
+
+### Created dashboards in Excel showing:
+
+- Global Sales by Platform (Retail vs Online)
+
+- Monthly Sales Trend (JAN–DEC)
+
+- Regional Comparison: NA vs EU vs SA vs ASIA vs AFRICA
+
+Total Revenue, Marketing Budget, Product Cost, and Units Sold by Console Brands
+
+💡 Insights Generation
+
+Extracted insights on which customer segments and platforms are dominated by each region.
+
+Compared regional sales and their contribution to global sales.
+
+🔑 Key Findings & Insights
+
+Top Platform: PlayStation 5 (PS5) recorded the highest global sales among all platforms.
+
+Most Turnover Regionally: Europe led sales across all regions.
+
+Most Sales Channel: Online
+
+Sales Trend: Peak in video game sales occurred in December
+
+🏁 Outcome
+
+The analysis provided a comprehensive overview of the gaming industry’s evolution, highlighting market opportunities for developers focusing on region, customer segment, and sales trend.
+Insights from this project could help guide marketing strategies and platform investments.
 
