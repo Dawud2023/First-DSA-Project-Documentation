@@ -47,7 +47,8 @@ The analysis aims to provide **actionable insights** for **game publishers, mark
 - Creating another column for Customer ID by using an Excel function:
   ```excel
   ="CUST-" & TEXT(ROW(A1),"000")
-  📊 Exploratory Data Analysis (EDA)
+
+ ### Exploratory Data Analysis (EDA)
 
 - Used summary statistics and visualizations to explore global sales distribution.
 
@@ -55,7 +56,7 @@ The analysis aims to provide **actionable insights** for **game publishers, mark
 
 - Analyzed monthly sales trends to see the rise and fall of gaming platforms over time.
 
-📈 Data Visualization
+### 📈 Data Visualization
 
 ### Created dashboards in Excel showing:
 
