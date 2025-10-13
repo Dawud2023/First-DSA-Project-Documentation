@@ -66,7 +66,7 @@ The analysis aims to provide **actionable insights** for **game publishers, mark
 
 - Regional Comparison: NA vs EU vs SA vs ASIA vs AFRICA
 
-Total Revenue, Marketing Budget, Product Cost, and Units Sold by Console Brands
+- Total Revenue, Marketing Budget, Product Cost, and Units Sold by Console Brands
 
 💡 Insights Generation
 
