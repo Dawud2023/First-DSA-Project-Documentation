@@ -84,7 +84,7 @@ Most Sales Channel: Online
 
 Sales Trend: Peak in video game sales occurred in December
 
-###🏁 Outcome
+### 🏁 Outcome
 
 The analysis provided a comprehensive overview of the gaming industry’s evolution, highlighting market opportunities for developers focusing on region, customer segment, and sales trend.
 Insights from this project could help guide marketing strategies and platform investments.
