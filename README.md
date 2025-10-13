@@ -50,3 +50,7 @@ The analysis aims to provide **actionable insights** for game publishers, market
 - Created a **Month** column using the Excel function:  
   ```excel
   =TEXT(B2, "mmm")
+  This simplified month-based trend analysis.
+  Created a Customer ID column using:
+  ="CUST-" & TEXT(ROW(A1), "000")
+
