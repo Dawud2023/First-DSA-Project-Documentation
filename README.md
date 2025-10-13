@@ -44,3 +44,7 @@ The analysis aims to provide **actionable insights** for **game publishers, mark
 - Creating a **Month** column for simplifying the analysis process and using an Excel function to convert date to month:  
   ```excel
   =TEXT(B2,"mmm")
+- Creating another column for Customer ID by using an Excel function:
+  ```excel
+  ="CUST-" & TEXT(ROW(A1),"000")
+
