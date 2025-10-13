@@ -18,7 +18,8 @@ The analysis aims to provide **actionable insights** for **game publishers, mark
 ---
 
 ## 🧾 Dataset Description
-**Source:** Kaggle – Video Game Sales Dataset  
+**Source:**[Kaggle – Video Game Sales Dataset](https://www.kaggle.com)   Kaggle – Video Game Sales Dataset  
+**File Format:** CSV 
 
 ### Data Fields
 - **Platform** (e.g., Nintendo Switch, Xbox Series X, PlayStation 5)  
