@@ -53,4 +53,63 @@ The analysis aims to provide **actionable insights** for game publishers, market
   This simplified month-based trend analysis.
   Created a Customer ID column using:
   ="CUST-" & TEXT(ROW(A1), "000")
+  3. Exploratory Data Analysis (EDA)
+
+Computed summary statistics and created visualizations to explore global sales distribution.
+
+Identified:
+
+Top-selling games and platforms
+
+Dominant customer segments
+
+Regional sales performance
+
+Analyzed monthly sales trends to observe the rise and fall of gaming platforms over time.
+
+4. Data Visualization
+
+Created interactive Excel Dashboards showing:
+
+Global Sales by Platform (Retail vs. Online)
+
+Monthly Sales Trend (Jan–Dec)
+
+Regional Comparison (NA vs. EU vs. SA vs. Asia vs. Africa)
+
+Total Revenue, Marketing Budget, Product Cost, and Units Sold by Console Brands
+
+5. Insights Generation
+
+Extracted insights on customer segment dominance and platform preference by region.
+
+Compared regional sales contributions to global performance.
+
+📊 Key Findings & Insights
+Insight	Summary
+Top Platform	PlayStation 5 (PS5) recorded the highest global sales among all platforms.
+Top Region	Europe led sales across all regions.
+Most Active Channel	Online sales outperformed retail.
+Seasonal Trend	Peak sales occurred in December, indicating a strong holiday effect.
+🏁 Outcome
+
+The analysis provided a comprehensive overview of the gaming industry’s evolution, highlighting:
+
+Market opportunities for developers and publishers
+
+Regional trends for marketers
+
+Customer segment behavior for investors
+
+These insights can guide marketing strategies, product positioning, and platform investment decisions.
+
+📊 Excel Dashboard
+
+(Add actual links when ready)
+
+🧠 Author
+
+Dawud — Data Analyst 
+
+"Turning data into clarity and clarity into action."
 
