@@ -22,7 +22,7 @@ The analysis aims to provide **actionable insights** for **game publishers, mark
 
 ### Data Fields
 - **Platform** (e.g., Nintendo Switch, Xbox Series X, PlayStation 5)  
-- **Year of Release**  
+- **Year of Release**  2024
 - **North America, Europe, Asia, South America, and Africa, Global Sales (in millions)**  
 
 ---
