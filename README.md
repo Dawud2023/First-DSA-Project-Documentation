@@ -74,7 +74,7 @@ Extracted insights on which customer segments and platforms are dominated by eac
 
 Compared regional sales and their contribution to global sales.
 
-###🔑 Key Findings & Insights
+##🔑 Key Findings & Insights
 
 Top Platform: PlayStation 5 (PS5) recorded the highest global sales among all platforms.
 
