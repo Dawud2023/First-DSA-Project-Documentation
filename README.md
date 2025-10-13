@@ -90,6 +90,8 @@ Sales Trend: Peak in video game sales occurred in December
 The analysis provided a comprehensive overview of the gaming industry’s evolution, highlighting market opportunities for developers focusing on region, customer segment, and sales trend.
 Insights from this project could help guide marketing strategies and platform investments.
 
-### 📊 Visualization <img width="904" height="532" alt="Screenshot 2025-10-13 130530" src="https://github.com/user-attachments/assets/0c43b981-f022-41f8-ae90-44b073ddc27c" />
+### 📊 Visualization 
+
+  <img width="904" height="532" alt="Screenshot 2025-10-13 130530" src="https://github.com/user-attachments/assets/0c43b981-f022-41f8-ae90-44b073ddc27c" />
 
 
