@@ -68,7 +68,7 @@ The analysis aims to provide **actionable insights** for **game publishers, mark
 
 - Total Revenue, Marketing Budget, Product Cost, and Units Sold by Console Brands
 
-### Insights Generation
+## Insights Generation
 
 Extracted insights on which customer segments and platforms are dominated by each region.
 
