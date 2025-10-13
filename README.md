@@ -68,13 +68,13 @@ The analysis aims to provide **actionable insights** for **game publishers, mark
 
 - Total Revenue, Marketing Budget, Product Cost, and Units Sold by Console Brands
 
-💡 Insights Generation
+###💡 Insights Generation
 
 Extracted insights on which customer segments and platforms are dominated by each region.
 
 Compared regional sales and their contribution to global sales.
 
-🔑 Key Findings & Insights
+###🔑 Key Findings & Insights
 
 Top Platform: PlayStation 5 (PS5) recorded the highest global sales among all platforms.
 
@@ -84,7 +84,7 @@ Most Sales Channel: Online
 
 Sales Trend: Peak in video game sales occurred in December
 
-🏁 Outcome
+###🏁 Outcome
 
 The analysis provided a comprehensive overview of the gaming industry’s evolution, highlighting market opportunities for developers focusing on region, customer segment, and sales trend.
 Insights from this project could help guide marketing strategies and platform investments.
