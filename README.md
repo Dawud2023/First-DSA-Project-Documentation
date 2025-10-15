@@ -69,7 +69,7 @@ Insights from this study can support **marketing campaigns**, **investment strat
 
 **Dawud [Kayode]**
 Data Analyst | Excel | Power BI | SQL
-📧 [kayodedhoud@gmail.com]
+📧 [kayodedahoud@gmail.com]
 🔗 [www.linkedin.com/in/dauda-kayode-b250b4193]
 
 
