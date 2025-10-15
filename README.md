@@ -1,99 +1,89 @@
-# 📘 Documentation
-
-This documentation outlines the process of building my **Data Analysis Portfolio**.  
-The portfolio demonstrates my ability to **gather, clean, analyze, and visualize data** using tools such as **Excel, Power BI, and SQL**.  
-It serves as both a **learning record** and a **professional showcase** of my analytical capabilities.
+👉 **“Releases → Create a new release.”**
 
 ---
 
-## 🎮 Project Topic
-**Gaming Console Sales Analysis**
+## 🏷️ **Release Title:**
+
+**Gaming Console Sales Analysis – v1.0**
 
 ---
 
-## 🎯 Project Overview
-The goal of this project is to analyze **global video game sales data** to identify **key market trends**, **top-performing platforms**, and **customer segment performance**, as well as **monthly sales trends** influencing game sales across different regions.  
-The analysis aims to provide **actionable insights** for **game publishers, marketers, and investors** looking to understand the dynamics of the gaming industry.
+## 🧾 **Tag version:**
+
+`v1.0`
 
 ---
 
-## 🧾 Dataset Description
-**Source:**[Kaggle – Video Game Sales Dataset](https://www.kaggle.com)   Kaggle – Video Game Sales Dataset  
-**File Format:** CSV 
+## 🧩 **Release Description:**
 
-### Data Fields
-- **Platform** (e.g., Nintendo Switch, Xbox Series X, PlayStation 5)  
-- **Year of Release**  2024
-- **North America, Europe, Asia, South America, and Africa, Global Sales (in millions)**  
+### 🎮 **Project Overview**
+
+This is the first official release of my **Gaming Console Sales Analysis** project — a data analysis case study aimed at uncovering market trends, platform performance, and regional sales insights within the global video game industry.
+The project demonstrates my ability to **clean, analyze, and visualize** data using **Microsoft Excel**, and it serves as part of my growing **Data Analysis Portfolio**.
 
 ---
 
-## 🧰 Tools and Technologies Used
-- **Data Cleaning & Analysis:** Excel  
-- **Visualization:** Excel  
-- **Data Preparation:** Excel for initial exploration  
-- **Documentation & Hosting:** GitHub  
+### 🗂️ **Contents**
+
+This release includes:
+
+* `Gaming_Sales_Analysis.xlsx` → Full Excel analysis and dashboard
+* `Gaming_Sales_Dataset.csv` → Cleaned dataset used for analysis
+* `Documentation.pdf` → Detailed project documentation (overview, findings, visuals)
+* `README.md` → GitHub summary for public viewing
 
 ---
 
-## 🔍 Process Summary
+### 🧠 **Key Highlights**
 
-### 📂 Data Collection
-- Imported the dataset from **Kaggle** into **Excel** for analysis.
+* **Top Platform:** PlayStation 5 (PS5) recorded the highest global sales.
+* **Regional Leader:** Europe led all regions in total turnover.
+* **Sales Channel:** Online platforms generated the majority of sales.
+* **Sales Trend:** December showed the peak sales volume due to holiday demand.
+* **Tools Used:** Microsoft Excel for data cleaning, analysis, and visualization.
 
-### 🧹 Data Cleaning
-- Creating a **Month** column for simplifying the analysis process and using an Excel function to convert date to month:  
-  ```excel
-  =TEXT(B2,"mmm")
-- Creating another column for Customer ID by using an Excel function:
-  ```excel
-  ="CUST-" & TEXT(ROW(A1),"000")
+---
 
- ### Exploratory Data Analysis (EDA)
+### 🏁 **Outcome**
 
-- Used summary statistics and visualizations to explore global sales distribution.
+The analysis delivers a **data-driven overview of gaming sales trends** across regions, customer segments, and platforms.
+Insights from this study can support **marketing campaigns**, **investment strategies**, and **product positioning** in the gaming industry.
 
-- Identified top-selling games, platforms, customer segments, and regions.
-
-- Analyzed monthly sales trends to see the rise and fall of gaming platforms over time.
-
-### 📈 Data Visualization
-
-   💡 Created dashboards in Excel showing:
-
-- Global Sales by Platform (Retail vs Online)
-
-- Monthly Sales Trend (JAN–DEC)
-
-- Regional Comparison: NA vs EU vs SA vs ASIA vs AFRICA
-
-- Total Revenue, Marketing Budget, Product Cost, and Units Sold by Console Brands
-
-### Insights Generation
-
-Extracted insights on which customer segments and platforms are dominated by each region.
-
-Compared regional sales and their contribution to global sales.
-
-### 🔑 Key Findings & Insights
-
-Top Platform: PlayStation 5 (PS5) recorded the highest global sales among all platforms.
-
-Most Turnover Regionally: Europe led sales across all regions.
-
-Most Sales Channel: Online
-
-Sales Trend: Peak in video game sales occurred in December
-
-### 🏁 Outcome
-
-The analysis provided a comprehensive overview of the gaming industry’s evolution, highlighting market opportunities for developers focusing on region, customer segment, and sales trend.
-Insights from this project could help guide marketing strategies and platform investments.
-
-### 📊 Dashboard Visualization 
+---
+### 📊 **Dashboard Visualization**
 
 
-  
-  <img width="904" height="532" alt="Screenshot 2025-10-13 130530" src="https://github.com/user-attachments/assets/0c43b981-f022-41f8-ae90-44b073ddc27c" />
+<img width="904" height="532" alt="Screenshot 2025-10-13 130530" src="https://github.com/user-attachments/assets/0c43b981-f022-41f8-ae90-44b073ddc27c" />
 
+---
+
+### 🚀 **Next Release (v2.0) Plans**
+
+* Develop a Power BI interactive dashboard version.
+* Incorporate multi-year data for trend forecasting.
+* Add Python scripts for automated analysis and visualization.
+
+---
+
+### 👨‍💻 **Author**
+
+**Dawud [Kayode]**
+Data Analyst | Excel | Power BI | SQL
+📧 [kayodedhoud@gmail.com]
+🔗 [www.linkedin.com/in/dauda-kayode-b250b4193]
+
+
+---
+
+### 🗓️ **Release Date:**
+
+**October 2025**
+
+---
+
+### 🏷️ **Release Type:**
+
+✅ Stable | 📊 Data Analysis | 📁 Excel Dashboard
+
+---
 
