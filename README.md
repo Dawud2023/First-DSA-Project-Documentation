@@ -32,8 +32,11 @@ This release includes:
 * `Documentation.pdf` → Detailed project documentation (overview, findings, visuals)
 * `README.md` → GitHub summary for public viewing
   
+---
 
-
+## Dataset
+The dataset used for this project can be downloaded from:
+[Google Drive link]("C:\Users\HP\Documents\Gaming Sales Analysis Dashboard.xlsx")
 
 ---
 
