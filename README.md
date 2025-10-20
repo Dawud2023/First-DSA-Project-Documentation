@@ -34,12 +34,24 @@ This release includes:
 
 ---
 
+### 🧹 Data Cleaning
+- Creating a **Month** column for simplifying the analysis process and using an Excel function to convert date to month:  
+  ```excel
+  =TEXT(B2,"mmm")
+- Creating another column for Customer ID by using an Excel function:
+  ```excel
+  ="CUST-" & TEXT(ROW(A1),"000")
+
+---
+
+
 ### 🧠 **Key Highlights**
 
 * **Top Platform:** PlayStation 5 (PS5) recorded the highest global sales.
-* **Regional Leader:** Europe led all regions in total turnover.
-* **Sales Channel:** Online platforms generated the majority of sales.
-* **Sales Trend:** December showed the peak sales volume due to holiday demand.
+* **Regional Leader:** Europe led all regions in total turnover $60,552.00
+* **Sales Channel:** Online platforms generated the majority of sales by 54%
+* **Sales Trend:** December showed the peak sales volume due to holiday demand $25,957.00
+* * **Customer Segment Performance:** Teenager showed the highest retention or recovery in adoption of gaming industry by 33%
 * **Tools Used:** Microsoft Excel for data cleaning, analysis, and visualization.
 
 ---
