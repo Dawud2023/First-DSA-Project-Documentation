@@ -31,12 +31,10 @@ This release includes:
 * `Gaming_Sales_Dataset.csv` → Cleaned dataset used for analysis
 * `Documentation.pdf` → Detailed project documentation (overview, findings, visuals)
 * `README.md` → GitHub summary for public viewing
-* 📁 GamingConsoleSalesAnalysis/
- ├── data/
- │    └── gaming_sales.csv
- ├── analysis.ipynb
- ├── README.md
- └── requirements.txt
+* git add data/
+git commit -m "Added dataset"
+git push origin main
+
 
 
 ---
