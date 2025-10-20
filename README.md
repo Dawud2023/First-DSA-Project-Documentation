@@ -34,6 +34,12 @@ This release includes:
   
 ---
 
+## Dataset
+The dataset used for this project can be downloaded from:
+[Google Drive link](https://docs.google.com/spreadsheets/d/1efe00W1GDc7EvlT6kIjxiR4Ulyi084GmGaK5qNYyVEA/edit?usp=sharing)
+
+---
+
 ### 🧹 Data Cleaning
 - Creating a **Month** column for simplifying the analysis process and using an Excel function to convert date to month:  
   ```excel
