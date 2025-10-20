@@ -34,12 +34,6 @@ This release includes:
   
 ---
 
-## Dataset
-The dataset used for this project can be downloaded from:
-[Google Drive link]("C:\Users\HP\Documents\Gaming Sales Analysis Dashboard.xlsx")
-
----
-
 ### 🧹 Data Cleaning
 - Creating a **Month** column for simplifying the analysis process and using an Excel function to convert date to month:  
   ```excel
