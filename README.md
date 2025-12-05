@@ -109,9 +109,13 @@ Data Analyst | Excel | Power BI | SQL
 
 ---
 
-### 📊 **Sql queries**
+### 📊 **SQL School Database**
 
 
-<img width="904" height="532" alt="Screenshot 2025-12-05 101407" src="https://github.com/user-attachments/assets/0c43b981-f022-41f8-ae90-44b073ddc27c" />
+Below is the screenshot showing my SQL queries and table in SSMS:
+
+![SQL Screenshot](Screenshot%202025-12-05%20101407.png)
+
+
 
 
