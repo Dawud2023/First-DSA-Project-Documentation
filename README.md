@@ -114,7 +114,13 @@ Data Analyst | Excel | Power BI | SQL
 
 Below is the screenshot showing my SQL queries and table in SSMS:
 
-![SQL Screenshot](Screenshot%202025-12-05%20101407.png)
+<img
+  width="904"
+  height="532"
+  alt="Screenshot 2025-12-05 101407"
+  src="Screenshot%202025-12-05%20101407.png"
+/>
+
 
 
 
