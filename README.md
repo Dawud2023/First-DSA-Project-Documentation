@@ -1,5 +1,3 @@
-👉 **“Releases → Create a new release.”**
-
 ---
 
 ## 🏷️ **Release Title:**
@@ -118,7 +116,8 @@ Below is the screenshot showing my SQL queries and table in SSMS:
   width="904"
   height="532"
   alt="Screenshot 2025-12-05 101407"
-  src="Screenshot%202025-12-05%20101407.png"
+  src="Screenshot%202025-12-0<img width="1364" height="756" alt="Screenshot 2025-12-05 101407" src="https://github.com/user-attachments/assets/b5f3a77f-b329-4e98-8e8b-f010cd0d0f16" />
+5%20101407.png"
 />
 
 
