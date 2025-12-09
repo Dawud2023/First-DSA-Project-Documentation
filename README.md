@@ -122,7 +122,8 @@ Below is my SQL queries and table in SSMS:
 * Develop a Power BI interactive dashboard version.
 
   
-<img width="979" height="542" alt="Screenshot 2025-12-09 132149" src="https://github.com/user-attachments/assets/4e31c0e9-b261-4abe-8eaa-290d3a048fe8" />
+<img width="975" height="542" alt="Screenshot 2025-12-09 141724" src="https://github.com/user-attachments/assets/dffce472-1ee5-4266-92a2-f4383828d175" />
+
 
 
 
