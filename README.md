@@ -88,7 +88,7 @@ Insights from this study can support **marketing campaigns**, **investment strat
 
 ### 👨‍💻 **Author**
 
-**Dawud [Kayode]**
+**Dauda Kayode**
 Data Analyst | Excel | Power BI | SQL
 📧 [kayodedahoud@gmail.com]
 🔗 [www.linkedin.com/in/dauda-kayode-b250b4193]
@@ -111,9 +111,18 @@ Data Analyst | Excel | Power BI | SQL
 ### 📊 **SQL School Database**
 
 
-Below is the screenshot showing my SQL queries and table in SSMS:
+Below is my SQL queries and table in SSMS:
 
 <img width="1364" height="756" alt="Screenshot 2025-12-05 101407" src="https://github.com/user-attachments/assets/b5f3a77f-b329-4e98-8e8b-f010cd0d0f16" />
+
+
+---
+
+### 🎮 **Project Overview**
+* Develop a Power BI interactive dashboard version.
+
+  
+<img width="979" height="542" alt="Screenshot 2025-12-09 132149" src="https://github.com/user-attachments/assets/4e31c0e9-b261-4abe-8eaa-290d3a048fe8" />
 
 
 
