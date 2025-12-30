@@ -108,6 +108,23 @@ Data Analyst | Excel | Power BI | SQL
 
 ---
 
+<img width="921" height="462" alt="bank analysis Dashboard" src="https://github.com/user-attachments/assets/4642e4ce-f910-44f0-ad4e-5f51c2039816" />
+
+
+### 🗓️ **Release Date:**
+
+**December 2025**
+
+---
+
+### 🏷️ **Release Type:**
+
+✅ Stable | 📊 Data Analysis | 📁 Excel Dashboard
+
+
+
+---
+
 ### 📊 **SQL School Database**
 
 
