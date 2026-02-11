@@ -1,3 +1,85 @@
+<div align="center">
+  <img src="github_avatar_512.png" width="160" alt="Dawud Profile Photo" />
+  
+  # Hi, I'm Kayode Dauda O. 👋
+  
+  🎓 **Business Education Graduate** | 📊 **Certified Data Analyst** | 🌍 **Aspiring Monitoring & Evaluation (M&E) Professional**  
+  Skilled in **Reporting, Impact Analysis, Data Cleaning, Visualization, and Evidence-Based Decision Making**.
+</div>
+
+---
+
+## 👨‍💼 About Me
+
+I am a Business Education graduate with a strong foundation in **Accounting**, **Data Analytics**, and **Project Reporting**.  
+I’m currently building professional expertise in **Monitoring & Evaluation (M&E)** to support development, NGO, education, health, and public sector projects.
+
+I enjoy turning raw data into clear insights that improve decision-making, accountability, and project performance.
+
+---
+
+## 🎯 Career Focus
+
+- Monitoring & Evaluation (M&E)
+- Data Analytics for Development Projects
+- Project Performance Tracking & Reporting
+- Evidence-Based Policy & Program Assessment
+- Dashboard Reporting for Stakeholders
+
+---
+
+## 🧰 Skills & Tools
+
+### 📌 Data Analytics
+- Excel (Advanced)
+- Power BI (Dashboards & Reports)
+- Python (Pandas, NumPy - Beginner/Intermediate)
+- SQL (Basic Queries)
+- Data Cleaning & Data Visualization
+
+### 📌 Monitoring & Evaluation (M&E)
+- Indicators & Performance Tracking
+- Baseline / Endline Reporting
+- Logical Framework (LogFrame)
+- Theory of Change (ToC)
+- Data Collection Tools (KoboToolbox, Google Forms)
+
+### 📌 Reporting
+- Impact Reports
+- Summary Briefs
+- Data Storytelling
+- Stakeholder Reporting
+
+---
+
+## 📂 Featured Projects
+
+🔹 **Data Analytics Projects**
+- Sales & Performance Dashboard (Excel)
+- Data Cleaning Projects (Excel)
+- Exploratory Data Analysis (EDA)
+
+🔹 **Monitoring & Evaluation (M&E) Projects**
+- Sample LogFrame & Indicator Tracker
+- Survey Design & Data Collection Template
+- M&E Reporting Format (NGO Standard)
+
+---
+
+## 🤝 Open to Opportunities
+
+I am open to:
+- M&E Assistant / Intern roles  
+- Data Analyst roles (Entry Level)  
+- NGO project reporting and evaluation support  
+- Remote opportunities  
+
+---
+
+## 📫 Contact Me
+
+- **Email:** your-email@example.com  
+- **LinkedIn:** https://www.linkedin.com/in/your-link-here  
 
 ---
 
