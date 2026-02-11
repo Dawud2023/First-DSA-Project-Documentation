@@ -78,7 +78,7 @@ I am open to:
 
 ## 📫 Contact Me
 
-- **Email:** your-email@example.com  
+- **Email:** kayodedahoud@gmail.com  
 
 ---
 
