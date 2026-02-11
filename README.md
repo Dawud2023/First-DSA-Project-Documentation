@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="github_avatar_512.png" width="160" alt="Dawud Profile Photo" />
-  
+  <img width="406" height="619" alt="my passport gittub" src="https://github.com/user-attachments/assets/96c3c7d9-efc4-4872-852b-6ffb5df65ade" />
+
   # Hi, I'm Kayode Dauda O. 👋
   
   🎓 **Business Education Graduate** | 📊 **Certified Data Analyst** | 🌍 **Aspiring Monitoring & Evaluation (M&E) Professional**  
@@ -79,7 +79,6 @@ I am open to:
 ## 📫 Contact Me
 
 - **Email:** your-email@example.com  
-- **LinkedIn:** https://www.linkedin.com/in/your-link-here  
 
 ---
 
